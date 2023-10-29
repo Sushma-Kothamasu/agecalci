@@ -2,7 +2,7 @@ import { useState } from 'react';
 import AgeCalculatorForm from './Agefo';
 import Ageres from './Ageres';
 import {
-  differenceInYears,
+  differenceInYears
 } from 'date-fns';
 
 function App() {
